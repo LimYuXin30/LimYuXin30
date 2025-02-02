@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @LimYuXin30
 - 👀 Working on an Urban Analytics Data Science Project in Python, reach out if you are interested!
 
 <!---
